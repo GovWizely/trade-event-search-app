@@ -70,6 +70,14 @@
     }
   }
 
+  input[type="submit"] {
+    cursor: pointer;
+    height: auto;
+    margin: 0;
+    padding: 7px 12px;
+    width: auto;
+  }
+
   &__group {
     clear: both;
     padding: 10px;
